@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-getting-started-guide",
+  "version": "1.0.0",
+  "description": "https://nodejs.org/ja/docs/guides/",
+  "main": "server.js",
+  "repository": "git@github.com:ham0215/nodejs-getting-started-guide.git",
+  "author": "ham",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
